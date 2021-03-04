@@ -20,7 +20,7 @@ int main()
   scanf ("%f",&sub2);
   scanf ("%f",&sub3);
   scanf ("%f",&sub4);
-  scanf ("%f",&sub4);
+  scanf ("%f",&sub5);
  
   avg = (sub1+sub2+sub3+sub4+sub5)/3;
 
